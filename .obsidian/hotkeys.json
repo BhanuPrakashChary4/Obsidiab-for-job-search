@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:Archieves/Templates/Job/company.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Archieves/Templates/Job/job.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

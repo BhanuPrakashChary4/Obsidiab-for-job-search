@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cd0744918f10e116",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3df67338e89df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96277f1c2cc0940c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7f95728c81217bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9248c43338646753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96f24c1d073d853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904a2e9916ae0c2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#company",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef10ae9d2cd0fd3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f6130da604a7ddcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7761d6c6b5510ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b065e27186dd60ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b30780e517288468",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee541594b4235eeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fb16118e9df1b2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "96277f1c2cc0940c",
+  "lastOpenFiles": [
+    "Archieves/Templates/job.md",
+    "Boards",
+    "Job Search/applications/trelix off campus drive 24.md",
+    "Archieves/Templates/company.md",
+    "trelix.md",
+    "Job Search/companies/trelix.md",
+    "Untitled.md",
+    "Job Search/applications/Untitled.md",
+    "Untitled.canvas",
+    "Job Search/companies",
+    "Resumes/Untitled.md",
+    "Job Search/applications/ntt.md",
+    "Dashboard.md",
+    "Job Search/applications",
+    "Job Search/new job.md",
+    "Archieves/Untitled.md",
+    "Archieves/Templates/Job",
+    "Archieves/Templates",
+    "Archieves",
+    "Resumes/ResumeNov-1.pdf",
+    "Resumes/BhanuPrakashChary-2401.pdf",
+    "Resumes/assosiacte developer.pdf",
+    "Archives"
+  ]
+}

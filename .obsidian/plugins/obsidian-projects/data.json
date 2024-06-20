@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Archieves/Templates/Job/job.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Job Search/applications",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 140
+              }
+            },
+            "orderFields": [
+              "name",
+              "apply-link",
+              "company",
+              "location",
+              "role",
+              "resume",
+              "source-link",
+              "status",
+              "tags",
+              "title",
+              "type"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5f6f302b-1ead-4e08-a3cf-aee459285946",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [],
+            "columns": {
+              "applied": {
+                "records": [
+                  "Job Search/applications/ntt.md",
+                  "Job Search/applications/trelix off campus drive 24.md"
+                ]
+              },
+              "waiting": {
+                "records": []
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "98ce4b22-5c2a-4918-a84c-3275e9e4d09f",
+          "name": "status",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5ffb9161-d927-4454-b2b2-64d3b23bbb17",
+          "name": "task",
+          "type": "calendar"
+        }
+      ],
+      "id": "4406a006-50e0-4bb7-9daa-ca7855b3d3e0",
+      "name": "Job Applicaitons"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
